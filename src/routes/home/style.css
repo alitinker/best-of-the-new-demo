@@ -1,0 +1,20 @@
+.heading {
+	font-size: 60px;
+	margin-bottom: 0;
+	background: -webkit-gradient(linear,left top,right top,from(#26b798),to(#7f1bda));
+	background: linear-gradient(to right,#26b798,#7f1bda);
+	-webkit-background-clip: text;
+	-webkit-text-fill-color: transparent;
+}
+.subheading {
+	font-size: 32px;
+	margin-top: 5px;
+	font-weight: 300;
+}
+.iconbox {
+	font-size: 40px;
+	color: #27b798;
+}
+.iconbox svg {
+	margin: 0 10px;
+}

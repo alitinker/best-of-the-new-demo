@@ -1,0 +1,6 @@
+{
+    "http://localhost:8080":"LOCAL",
+    "https://dev.tinkercodes.com": "DEV",
+    "https://qa.tinkercodes.com": "QA",
+    "https://tinkercodes.com": "PROD"
+}
